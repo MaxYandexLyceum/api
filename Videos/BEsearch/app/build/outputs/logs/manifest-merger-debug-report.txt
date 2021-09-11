@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:4:2-28
+		INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:3:2-60
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:5:2-63
+	android:name
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:5:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:6:2-75
+	android:name
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:6:19-73
+application
+ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:7:2-36:16
+	android:label
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:9:3-27
+	android:largeHeap
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:11:3-27
+	android:icon
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:10:3-36
+	android:allowBackup
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:8:3-29
+	android:theme
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:13:3-34
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:12:3-38
+activity#com.benot.search.MainActivity
+ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:14:3-25:14
+	android:screenOrientation
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:20:4-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:17:4-38
+	android:supportsPictureInPicture
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:18:4-43
+	android:configChanges
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:16:4-97
+	android:theme
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:19:4-38
+	android:name
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:15:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:21:4-24:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:22:5-56
+	android:name
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:22:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:23:5-64
+	android:name
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:23:15-62
+activity#com.benot.search.PoskActivity
+ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:26:3-32:42
+	android:screenOrientation
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:32:4-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:29:4-38
+	android:supportsPictureInPicture
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:30:4-43
+	android:configChanges
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:28:4-97
+	android:theme
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:31:4-38
+	android:name
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:27:4-32
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:33:3-35:30
+	android:required
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:35:4-28
+	android:name
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml:34:4-41
+uses-sdk
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Videos\BEsearch\app\src\main\AndroidManifest.xml

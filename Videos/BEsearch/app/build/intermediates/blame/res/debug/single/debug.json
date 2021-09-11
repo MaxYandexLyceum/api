@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_cust.xml.flat",
+        "source": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\src\\main\\res\\layout\\cust.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_public_white.png.flat",
+        "source": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\src\\main\\res\\drawable-xhdpi\\ic_public_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_posk.xml.flat",
+        "source": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\src\\main\\res\\layout\\posk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_white.png.flat",
+        "source": "C:\\Users\\Admin\\Videos\\BEsearch\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_white.png"
+    }
+]
